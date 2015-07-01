@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wintershawn.herokuapp.com/sitemap.xml
+Sitemap: http://lshuang.github.io/sitemap.xml

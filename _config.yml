@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: https://wintershawn.herokuapp.com
+title: Lee Shawn
+subtitle: 孤独的人总是晚回家
+author: Lee Shawn
 simple_search: https://www.google.com/search
 description:
 

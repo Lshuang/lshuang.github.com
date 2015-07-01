@@ -4,7 +4,7 @@
   <title><![CDATA[Lee Shawn]]></title>
   <link href="http://lshuang.github.io/atom.xml" rel="self"/>
   <link href="http://lshuang.github.io/"/>
-  <updated>2015-07-01T16:48:29+08:00</updated>
+  <updated>2015-07-01T17:09:21+08:00</updated>
   <id>http://lshuang.github.io/</id>
   <author>
     <name><![CDATA[Lee Shawn]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客]]></title>
+    <link href="http://lshuang.github.io/blog/2015/07/01/we-dai-ji-shi-jian/"/>
+    <updated>2015-07-01T16:54:10+08:00</updated>
+    <id>http://lshuang.github.io/blog/2015/07/01/we-dai-ji-shi-jian</id>
+    <content type="html"><![CDATA[<p>各种折腾大概搞定了这个博客，我想可以写一点自己的东西了，哈哈哈。</p>
+]]></content>
+  </entry>
   
 </feed>
